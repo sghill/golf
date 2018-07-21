@@ -1,0 +1,59 @@
+{
+    "f5": {
+        "3I": {
+            "loft": 21,
+            "length": 39.25,
+            "lie": 59.5,
+            "swingWeight": "D2"
+        },
+        "4I": {
+            "loft": 24,
+            "length": 38.75,
+            "lie": 60,
+            "swingWeight": "D2"
+        },
+        "5I": {
+            "loft": 27,
+            "length": 38.25,
+            "lie": 61,
+            "swingWeight": "D2"
+        },
+        "6I": {
+            "loft": 31,
+            "length": 37.75,
+            "lie": 61.5,
+            "swingWeight": "D2"
+        },
+        "7I": {
+            "loft": 35,
+            "length": 37.25,
+            "lie": 62,
+            "swingWeight": "D2"
+        },
+        "8I": {
+            "loft": 39,
+            "length": 36.75,
+            "lie": 63,
+            "swingWeight": "D2"
+        },
+        "9I": {
+            "loft": 43,
+            "length": 36.25,
+            "lie": 63.5,
+            "swingWeight": "D2"
+        },
+        "PW": {
+            "loft": 47,
+            "length": 35.75,
+            "lie": 64,
+            "swingWeight": "D2"
+        },
+        "GW": {
+            "loft": 51,
+            "length": 35.5,
+            "lie": 64.5,
+            "swingWeight": "D2"
+        },
+        "source": "https://www.tgw.com/wilson-mens-fg-tour-f5-irons"
+    }
+}

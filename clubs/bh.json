@@ -1,0 +1,32 @@
+{
+    "edge": {
+        "6I": {
+            "loft": 30,
+            "length": 37.50,
+            "lie": 62,
+            "swingWeight": "D2"
+        },
+        "9I": {
+            "loft": 42,
+            "length": 36,
+            "lie": 63.5,
+            "swingWeight": "D2"
+        },
+        "source": "https://benhogangolf.com/pages/edge-irons"
+    },
+    "ptx": {
+        "6I": {
+            "loft": 29,
+            "length": 37.50,
+            "lie": 62,
+            "swingWeight": "D2"
+        },
+        "9I": {
+            "loft": 41,
+            "length": 36,
+            "lie": 63.5,
+            "swingWeight": "D2"
+        },
+        "source": "https://benhogangolf.com/pages/ptx-irons"
+    }
+}

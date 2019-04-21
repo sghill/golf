@@ -6,6 +6,14 @@
             "flex": "stiff"
         },
         "source": "https://www.todaysgolfer.co.uk/equipment/golf-clubs/drivers/taylormade/r580xd/taylormade-r580xd/"
+    },
+    "m3": {
+        "Driver": {
+            "loft": 9.5,
+            "length": 45.5,
+            "flex": "stiff"
+        },
+        "source": "https://www.taylormadegolf.com/M3-Driver/DW-WZ617.html"
     }
 }
 
